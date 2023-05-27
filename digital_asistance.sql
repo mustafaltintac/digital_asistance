@@ -1,0 +1,1 @@
+SELECT * FROM digital_asistance.o2_saturasyonu;
